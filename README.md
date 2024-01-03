@@ -1,5 +1,11 @@
 # EcommerseCustomers
-We should answer this question: \
-__Do you think the company should focus more on their mobile app or their website?__
+__Question:__ \
+Do you think the company should focus more on their mobile app or their website?
 
-By training a linear regression model on the dataset and comparing the p-values of the features, the answer is the __mobile app__.
+__Answer:__
+By training a linear regression model on the dataset and comparing the p-values of the achieved coefs, the answer is the __mobile app__.
+
+Tools: 
+* Numpy & Pandas
+* Scikit-learn
+* Seaborn
