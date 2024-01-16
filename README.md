@@ -10,4 +10,4 @@ __Tools:__
 * Scikit-learn
 * Seaborn
 
-<img src="pairplot.png" height=10 width=10 /> 
+<img src="pairplot.png" height=200 width=200 /> 
