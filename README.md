@@ -9,3 +9,5 @@ __Tools:__
 * Numpy & Pandas
 * Scikit-learn
 * Seaborn
+
+<img src="pairplot.png" height=886 width=886 /> 
